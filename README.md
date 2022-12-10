@@ -7,7 +7,7 @@ Publications and accompanying code developed by SAIL research team members
 | [_"Estudio y aplicaciones del aprendizaje por refuerzo para control energético"_](https://github.com/ugr-sail/publications/blob/main/manuscripts/TFG_2022_AhmedBrek.pdf) | https://github.com/Ahmed2BP/TFG-GII | 2022 |
 | [_"Deep Reinforcement Learning para control energético eficiente de edificios"_](https://github.com/ugr-sail/publications/blob/main/manuscripts/TFM_2021_AntonioManjavacas.pdf) | https://github.com/manjavacas/drl-building | 2021 |
 | [_"Estimación del impacto de la contaminación ambiental en la salud mediante técnicas Machine Learning"_](https://github.com/ugr-sail/publications/blob/main/manuscripts/TFG_2021_MartaAmor.pdf) |---tba---  | 2021|
-| [_"Deep Learning para la simulación de sistemas físicos"_](https://github.com/ugr-sail/publications/blob/main/manuscripts/TFM_2021_FelixFernandez.pdf) | ---tba--- | 2021 |
+| [_"Deep Learning para la simulación de sistemas físicos"_](https://github.com/ugr-sail/publications/blob/main/manuscripts/TFM_2021_FelixFernandez.pdf) | https://github.com/felixfdlm/deepsim-PINN-Experimentation | 2021 |
 | [_"Deep learning for prediction of environmental pollution in London’s underground"_](https://github.com/ugr-sail/publications/blob/main/manuscripts/TFG_2021_DavidMartin.pdf) | https://adoring-montalcini-3da5d4.netlify.app/ | 2021 |
 | [_"Aprendizaje por refuerzo profundo para la resolución de juegos"_](https://github.com/ugr-sail/publications/blob/main/manuscripts/TFM_2020_AlejandroCampoy.pdf) | https://github.com/AlejandroCN7/TFM-MII | 2020 |
 
