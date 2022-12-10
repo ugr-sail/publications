@@ -37,7 +37,7 @@ $\colorbox{brown}{\color{black}{Simulation\}}$
 | $\colorbox{cyan}{\color{black}{\small Opt\}}$ | _“Variational Gaussian Process for optimal sensor placement”_ | [Applications of Mathematics](http://doi.org/10.21136/AM.2021.0307-19) | 2021 |
 | $\colorbox{yellow}{\color{black}{\small BIM\}}$ $\colorbox{pink}{\color{black}{\small Onto\}}$ | _”Minimalistic Fuzzy Ontology Reasoning: An application to Building Information Modeling”_ | [Applied Soft Computing](http://doi.org/10.1016/j.asoc.2021.107158) | 2021 |
 
-Thanks for reading until here, :fireworks: please visit the complete list in our [web site](https://wpd.ugr.es/~sail/publications/).
+Thanks for reading until here, :fireworks: the complete list will be soon available in our [web site](https://wpd.ugr.es/~sail/publications/) (still WorkInProgress, though).
 
 
 
