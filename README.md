@@ -1,8 +1,8 @@
-# publications
-Publications and accompanying code developed by SAIL research team members
+Energy-related publications and MSc projects from [SAIL](https://sail.ugr.es) members
+
 
 ## Manuscripts to obtain a Master degree (TFM) or a Bachelor degree (TFG) 
-| Title linked to manuscript | Link to code | year|
+| Manuscript | Repo | Year|
 | ---------------- | ------------------ | ------ |
 | [_"Estudio y aplicaciones del aprendizaje por refuerzo para control energético"_](https://github.com/ugr-sail/publications/blob/main/manuscripts/TFG_2022_AhmedBrek.pdf) | https://github.com/Ahmed2BP/TFG-GII | 2022 |
 | [_"Deep Reinforcement Learning para control energético eficiente de edificios"_](https://github.com/ugr-sail/publications/blob/main/manuscripts/TFM_2021_AntonioManjavacas.pdf) | https://github.com/manjavacas/drl-building | 2021 |
@@ -23,7 +23,7 @@ $\colorbox{olive}{\color{black}{Prediction\}}$
 $\colorbox{brown}{\color{black}{Simulation\}}$
 
 
-| Tags | Title | Journal linked to manuscript  | year|
+| Tags | Title | Journal  | Year|
 | -------------------- | ------------------ | ------------ | ------ |
 | $\colorbox{orange}{\color{black}{\small BEM}}$ $\colorbox{green}{\color{black}{\small DRL}}$  | _"An experimental evaluation of Deep Reinforcement Learning algorithms for HVAC control"_ | Artificial Intelligence Review  | under review| 
 |  $\colorbox{magenta}{\color{black}{\small NN}}$  | _"Physics-informed neural networks for data-driven simulation: advantages, limitations, and opportunities”_ | Physica A: Statistical Mechanics and its Applications | under review |
